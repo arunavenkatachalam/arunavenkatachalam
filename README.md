@@ -7,5 +7,6 @@
 
 
 **Skills:** Data Cleaning, Data Modeling, Data Wrangling, Python (Pandas, NumPy, sci-kit-learn, Matplotlib, TensorFlow), SQL, R, Statistical Analysis
+
 **Data Visualization:** Tableau, Advanced MS Excel
 
