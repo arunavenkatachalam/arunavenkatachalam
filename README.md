@@ -6,6 +6,7 @@
 - In my leisure time, I enjoy reading books, drawing, and solving puzzles.
 
 
+
 **Skills:** Data Cleaning, Data Modeling, Data Wrangling, Python (Pandas, NumPy, sci-kit-learn, Matplotlib, TensorFlow), SQL, R, Statistical Analysis
 
 **Data Visualization:** Tableau, Advanced MS Excel
